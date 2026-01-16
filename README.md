@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a student full stack developer from Brasil<br><br>- 📚 I'm currently learning React Native <br>- ⚡ In my free time I play games and study programming</p>
+<p align="left">I'm a student full stack developer from Brasil<br><br>- 📚 I'm currently majoring in software engineering
 
 
 ###
